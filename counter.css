@@ -1,0 +1,22 @@
+.btn{
+
+    color:blueviolet;
+    background-color:aliceblue;
+    margin:4px;
+    border-radius: 50px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border: 1px solid lightblue;
+    font-size:large;
+}
+
+.contianer{
+
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+    margin:30px;
+    font-family: inherit;
+}
+body{
+    background-color:azure}
